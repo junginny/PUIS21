@@ -1,3 +1,0 @@
-Bonus work: Shopping Cart Page
-
-I designed and created a shopping cart page. Clicking on the 'Add to Cart' button on the product details page directs the users to the shopping cart where they can see the items they have added. They can click on 'Back to Shopping' to go back to the menu page. In the cart, it displays in a table form the type of rolls with an image, the glazing choice, the quantity, and the price for individual item. Below this table, it also displays the subtotal, the shipping fee and the total amount that the consumers have to pay. Clicking on the Check Out button will direct them to the next step to begin payment. 
